@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mansurbek/"><img src="https://img.shields.io/badge/-@mansurbek-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="padding-top: 20px;"/>
 
 <h2>⚡ A Few Quick Facts</h2>
 <ul>
