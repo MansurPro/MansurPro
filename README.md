@@ -29,6 +29,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/17177659?s=200&v=4" alt="sanity" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
@@ -52,6 +53,7 @@
   <li><a href="https://github.com/MansurPro/Movie-Website">Movie Website</a> - A Netflix-like movie website built with Django</li>
   <li><a href="https://github.com/MansurPro/walmart_dataset">Walmart Dataset Analysis</a> - Data analysis and sales prediction model for Walmart</li>
   <li><a href="https://github.com/MansurPro/gym_exercises">Gym Exercises Web App</a> - An interactive app for fitness enthusiasts built with React and Firebase</li>
+  <li><a href="https://shareme-sm.netlify.app/">Social App</a> - A Pinterest-like social platform built with Sanity for the backend and React for the front-end</li>
 </ul>
 
 <h2>📊 GitHub Stats</h2>
