@@ -61,15 +61,11 @@
 
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img id="github-stats" align="center" src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true" alt="MansurPro's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true">
+    <img align="center" src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true" alt="MansurPro's GitHub Stats">
+  </picture>
 </p>
 
 <p><a href="http://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square"><img src="https://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square" alt="HitCount"></a></p>
-
-<script>
-  const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
-  const img = document.getElementById("github-stats");
-  if (prefersDarkScheme) {
-    img.src += "&theme=dark";
-  }
-</script>
