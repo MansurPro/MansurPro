@@ -60,6 +60,6 @@
 </ul>
 
 <h2>📊 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true" alt="MansurPro's GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&theme=dark" alt="MansurPro's GitHub Stats" /></p>
 
 <p><a href="http://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square"><img src="https://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square" alt="HitCount"></a></p>
