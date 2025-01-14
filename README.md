@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/MansurPro"><img src="https://img.shields.io/badge/-@MansurPro-181717?style=flat-square&logo=github" alt="GitHub Badge"></a>
   <a href="mailto:mansurbek.career@gmail.com"><img src="https://img.shields.io/badge/Email-mansurbek.career@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://www.linkedin.com/in/mansurbek/"><img src="https://img.shields.io/badge/-@mansurbek-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/mansurbek/"><img src="https://img.shields.io/badge/-@mansurbek-0077B5?style=flat-square&logo=indeed&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 <!-- <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" /> -->
