@@ -69,3 +69,5 @@
 </p>
 
 <p><a href="http://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square"><img src="https://hits.dwyl.com/MansurPro/MansurPro.svg?style=flat-square" alt="HitCount"></a></p>
+
+![GitHub User's stars](https://img.shields.io/github/stars/mansurpro)
