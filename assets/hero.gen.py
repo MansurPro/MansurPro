@@ -215,3 +215,35 @@ for lbl, acc, fn in [("Website", "#7dd3fc", "btn-website.svg"),
                      ("Contact", "#34d399", "btn-contact.svg")]:
     n, wd = keycap(lbl, acc, fn)
     print(f"  {n}  {wd}px")
+
+
+# ── terminal tagline ───────────────────────────────────────────────────────────
+# The text is painted statically and the cursor blink is the only animated part,
+# so this still reads perfectly if SVG animation is frozen (which is exactly what
+# happens to SMIL-driven "typing" SVGs inside an <img>).
+def tagline(text, fname):
+    fs, ph = 18.0, 46
+    prompt = "~ $"
+    px = 14
+    pw = tw(MED, prompt, fs, 0.02)
+    tx = px + pw + 14
+    twid = tw(MED, text, fs, 0.005)
+    w = int(tx + twid + 20 + 14)
+    body = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {ph}" width="{w}" height="{ph}" role="img" aria-label="{text}">
+  <title>{text}</title>
+  <style>
+    .cur {{ animation: blink 1.15s steps(1,end) infinite }}
+    @keyframes blink {{ 0%,55% {{ opacity: 1 }} 56%,100% {{ opacity: 0.15 }} }}
+    @media (prefers-reduced-motion: reduce) {{ .cur {{ animation: none }} }}
+  </style>
+  <rect width="{w}" height="{ph}" rx="9" fill="#0d1424" stroke="#1d2b45"/>
+  <path d="{tp(MED, prompt, fs, px, ph/2 + fs*0.34, tracking=0.02)}" fill="#34d399"/>
+  <path d="{tp(MED, text, fs, tx, ph/2 + fs*0.34, tracking=0.005)}" fill="{INK}"/>
+  <rect class="cur" x="{tx + twid + 5:.0f}" y="{ph/2 - fs*0.44:.0f}" width="9" height="{fs*0.92:.0f}" fill="#7dd3fc"/>
+</svg>
+'''
+    (out_dir / fname).write_text(body)
+    print(f"  {fname}  {w}x{ph}")
+
+
+tagline("studying how model behavior forms during training", "tagline.svg")
