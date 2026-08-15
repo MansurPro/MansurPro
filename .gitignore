@@ -1,3 +1,2 @@
-
-# cloned separately, has its own remote (MansurPro/MansurPro)
-github-profile/
+# fetched by assets/hero.gen.py, not vendored (SIL OFL)
+assets/*.ttf

@@ -1,23 +1,15 @@
-<img src="assets/banner.svg" alt="Mansurbek Satarov — Trustworthy AI Research · ML Systems · Full-Stack Engineering" width="100%">
+<a href="https://mansurpro.netlify.app"><img src="assets/hero.svg" alt="Mansurbek Satarov — Trustworthy AI Researcher, ML Systems Engineer, Full-Stack Developer. The stack I work across: interfaces, services and APIs, agents and RAG, models and training, systems and infrastructure." width="100%"></a>
 
-<p align="center">
-  Ph.D. researcher at the University of Cincinnati studying how model behavior forms during
-  training — and a builder who ships the systems around it, from agent orchestration and cloud
-  data platforms to the frontend people actually touch.
-</p>
-
-<p align="center">
-  <a href="https://mansurpro.netlify.app"><img src="https://img.shields.io/badge/SITE-mansurpro.netlify.app-e8a21c?style=flat-square&labelColor=10140f" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/mansurbek/"><img src="https://img.shields.io/badge/LINKEDIN-mansurbek-444d42?style=flat-square&labelColor=10140f" alt="LinkedIn"></a>
-  <a href="mailto:sataromk@mail.uc.edu"><img src="https://img.shields.io/badge/ACADEMIC-sataromk%40mail.uc.edu-444d42?style=flat-square&labelColor=10140f" alt="Academic email"></a>
-  <a href="mailto:mansurbek.career@gmail.com"><img src="https://img.shields.io/badge/WORK-mansurbek.career%40gmail.com-444d42?style=flat-square&labelColor=10140f" alt="Work email"></a>
-  <img src="https://img.shields.io/badge/STATION-Cincinnati,%20OH-444d42?style=flat-square&labelColor=10140f" alt="Cincinnati, OH">
-  <img src="https://img.shields.io/badge/STATUS-open%20to%20collaboration-3fbe73?style=flat-square&labelColor=10140f" alt="Open to collaboration">
+<p align="left">
+  <a href="https://mansurpro.netlify.app"><img src="assets/btn-website.svg" alt="Website"></a>
+  <a href="https://github.com/MansurPro?tab=repositories"><img src="assets/btn-projects.svg" alt="Projects"></a>
+  <a href="https://mansurpro.netlify.app/research"><img src="assets/btn-research.svg" alt="Research"></a>
+  <a href="mailto:sataromk@mail.uc.edu"><img src="assets/btn-contact.svg" alt="Contact"></a>
 </p>
 
 ---
 
-## WHAT I WORK ON
+## What I work on
 
 I split my time between research that asks *why models behave the way they do* and engineering
 that puts those models in front of real users. Both halves feed each other.
@@ -55,46 +47,48 @@ that puts those models in front of real users. Both halves feed each other.
 
 > Ph.D. Research Assistant at the **University of Cincinnati** · part-time Research Assistant at the **P&G Digital Accelerator**
 
-## RESEARCH INTERESTS
+## Research interests
 
 **Active** — where my current work lives.
 
 <p>
-  <img src="https://img.shields.io/badge/TRUSTWORTHY%20ML-e8a21c?style=flat-square" alt="Trustworthy ML">
-  <img src="https://img.shields.io/badge/ALIGNMENT-e8a21c?style=flat-square" alt="Alignment">
-  <img src="https://img.shields.io/badge/RLHF-e8a21c?style=flat-square" alt="RLHF">
-  <img src="https://img.shields.io/badge/LEARNING%20DYNAMICS-e8a21c?style=flat-square" alt="Learning dynamics">
-  <img src="https://img.shields.io/badge/INFLUENCE%20ANALYSIS-e8a21c?style=flat-square" alt="Influence analysis">
-  <img src="https://img.shields.io/badge/LLM%20SECURITY-e8a21c?style=flat-square" alt="LLM security">
-  <img src="https://img.shields.io/badge/AGENTIC%20AI-e8a21c?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/RAG-e8a21c?style=flat-square" alt="Retrieval-augmented generation">
-  <img src="https://img.shields.io/badge/COMPUTER%20VISION-e8a21c?style=flat-square" alt="Computer vision">
-  <img src="https://img.shields.io/badge/MULTIMODAL-e8a21c?style=flat-square" alt="Multimodal learning">
-  <img src="https://img.shields.io/badge/MODEL%20DEPLOYMENT-e8a21c?style=flat-square" alt="Scalable model deployment">
+  <img src="https://img.shields.io/badge/TRUSTWORTHY%20ML-818cf8?style=flat-square" alt="Trustworthy ML">
+  <img src="https://img.shields.io/badge/ALIGNMENT-818cf8?style=flat-square" alt="Alignment">
+  <img src="https://img.shields.io/badge/RLHF-818cf8?style=flat-square" alt="RLHF">
+  <img src="https://img.shields.io/badge/LEARNING%20DYNAMICS-818cf8?style=flat-square" alt="Learning dynamics">
+  <img src="https://img.shields.io/badge/INFLUENCE%20ANALYSIS-818cf8?style=flat-square" alt="Influence analysis">
+  <img src="https://img.shields.io/badge/LLM%20SECURITY-818cf8?style=flat-square" alt="LLM security">
+  <img src="https://img.shields.io/badge/AGENTIC%20AI-818cf8?style=flat-square" alt="Agentic AI">
+  <img src="https://img.shields.io/badge/RAG-818cf8?style=flat-square" alt="Retrieval-augmented generation">
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-818cf8?style=flat-square" alt="Computer vision">
+  <img src="https://img.shields.io/badge/MULTIMODAL-818cf8?style=flat-square" alt="Multimodal learning">
+  <img src="https://img.shields.io/badge/MODEL%20DEPLOYMENT-818cf8?style=flat-square" alt="Scalable model deployment">
 </p>
 
 **In preparation** — adjacent ground I read into and expect to work in next.
 
 <p>
-  <img src="https://img.shields.io/badge/INTERPRETABILITY-444d42?style=flat-square" alt="Mechanistic interpretability">
-  <img src="https://img.shields.io/badge/EVALUATION-444d42?style=flat-square" alt="Model evaluation and benchmarking">
-  <img src="https://img.shields.io/badge/CALIBRATION-444d42?style=flat-square" alt="Uncertainty quantification and calibration">
-  <img src="https://img.shields.io/badge/ROBUSTNESS-444d42?style=flat-square" alt="Adversarial robustness">
-  <img src="https://img.shields.io/badge/PEFT-444d42?style=flat-square" alt="Parameter-efficient fine-tuning">
-  <img src="https://img.shields.io/badge/DATA--CENTRIC%20AI-444d42?style=flat-square" alt="Data-centric AI">
-  <img src="https://img.shields.io/badge/SYNTHETIC%20DATA-444d42?style=flat-square" alt="Synthetic data">
-  <img src="https://img.shields.io/badge/PRIVACY--PRESERVING%20ML-444d42?style=flat-square" alt="Privacy-preserving ML">
-  <img src="https://img.shields.io/badge/REASONING-444d42?style=flat-square" alt="Reasoning and planning">
-  <img src="https://img.shields.io/badge/EFFICIENT%20INFERENCE-444d42?style=flat-square" alt="Efficient inference">
-  <img src="https://img.shields.io/badge/HUMAN%20OVERSIGHT-444d42?style=flat-square" alt="Human oversight">
-  <img src="https://img.shields.io/badge/ML%20INFRASTRUCTURE-444d42?style=flat-square" alt="Reproducible ML infrastructure">
+  <img src="https://img.shields.io/badge/INTERPRETABILITY-334155?style=flat-square" alt="Mechanistic interpretability">
+  <img src="https://img.shields.io/badge/EVALUATION-334155?style=flat-square" alt="Model evaluation and benchmarking">
+  <img src="https://img.shields.io/badge/CALIBRATION-334155?style=flat-square" alt="Uncertainty quantification and calibration">
+  <img src="https://img.shields.io/badge/ROBUSTNESS-334155?style=flat-square" alt="Adversarial robustness">
+  <img src="https://img.shields.io/badge/PEFT-334155?style=flat-square" alt="Parameter-efficient fine-tuning">
+  <img src="https://img.shields.io/badge/DATA--CENTRIC%20AI-334155?style=flat-square" alt="Data-centric AI">
+  <img src="https://img.shields.io/badge/SYNTHETIC%20DATA-334155?style=flat-square" alt="Synthetic data">
+  <img src="https://img.shields.io/badge/PRIVACY--PRESERVING%20ML-334155?style=flat-square" alt="Privacy-preserving ML">
+  <img src="https://img.shields.io/badge/REASONING-334155?style=flat-square" alt="Reasoning and planning">
+  <img src="https://img.shields.io/badge/EFFICIENT%20INFERENCE-334155?style=flat-square" alt="Efficient inference">
+  <img src="https://img.shields.io/badge/HUMAN%20OVERSIGHT-334155?style=flat-square" alt="Human oversight">
+  <img src="https://img.shields.io/badge/ML%20INFRASTRUCTURE-334155?style=flat-square" alt="Reproducible ML infrastructure">
 </p>
 
 Each of these has a page with context on **[mansurpro.netlify.app/research](https://mansurpro.netlify.app/research)**.
 
-## SELECTED WORK
+## Selected work
 
-**AI, LLMs & agents**
+<details open>
+<summary><b>AI, LLMs &amp; agents</b></summary>
+<br>
 
 | Project | What it does |
 |---|---|
@@ -102,7 +96,11 @@ Each of these has a page with context on **[mansurpro.netlify.app/research](http
 | **[RAG Assistant](https://github.com/MansurPro/RAG-assistant)** | Modular retrieval-augmented generation pipeline — ingestion, chunking, embeddings, ChromaDB semantic search, conversational interface |
 | **[Prompt2Clip](https://github.com/MansurPro/Prompt2Clip)** | Text-to-video generation on scalable cloud GPU infrastructure using the Mochi model |
 
-**Data, cloud & full-stack**
+</details>
+
+<details>
+<summary><b>Data, cloud &amp; full-stack</b></summary>
+<br>
 
 | Project | What it does |
 |---|---|
@@ -110,16 +108,22 @@ Each of these has a page with context on **[mansurpro.netlify.app/research](http
 | **[DocuParse](https://github.com/MansurPro/DocuParse)** | PDF/EPUB/MOBI → clean structured Markdown, with AI layout detection, LaTeX equation handling, and multilingual support |
 | **[College Inquiry Chatbot](https://github.com/MansurPro/gcp-college-inquiry-chatbot)** | Cloud-native conversational system on GCP that answers prospective-student questions |
 
-**Systems & fundamentals**
+</details>
+
+<details>
+<summary><b>Systems &amp; fundamentals</b></summary>
+<br>
 
 | Project | What it does |
 |---|---|
 | **[DigitRecognizer](https://github.com/MansurPro/DigitRecognizer)** | MNIST classifier written from scratch in NumPy — forward pass, backprop, gradient descent, zero frameworks |
 | **[DinoMind Evolution](https://github.com/MansurPro/DinoMindEvolution)** | NEAT neuroevolution learns a timing-critical game with no gradients and no labeled data |
 
+</details>
+
 More at **[mansurpro.netlify.app](https://mansurpro.netlify.app)**.
 
-## LANGUAGES AND TOOLS
+## Languages and tools
 
 <table>
   <tr valign="center">
@@ -159,11 +163,11 @@ More at **[mansurpro.netlify.app](https://mansurpro.netlify.app)**.
   </tr>
 </table>
 
-## GITHUB STATS
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&disable_animations=true&border_color=444d42&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b&icon_color=3fbe73" alt="MansurPro's GitHub stats" height="165">
-  <img src="https://github-readme-stats-two-opal-57.vercel.app/api/top-langs/?username=MansurPro&layout=compact&disable_animations=true&border_color=444d42&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b" alt="Top languages" height="165">
+  <img src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&disable_animations=true&border_color=1e293b&bg_color=080b13&title_color=818cf8&text_color=93a3ba&icon_color=7dd3fc" alt="MansurPro's GitHub stats" height="165">
+  <img src="https://github-readme-stats-two-opal-57.vercel.app/api/top-langs/?username=MansurPro&layout=compact&disable_animations=true&border_color=1e293b&bg_color=080b13&title_color=818cf8&text_color=93a3ba" alt="Top languages" height="165">
 </p>
 
 ---
