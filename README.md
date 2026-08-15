@@ -1,6 +1,4 @@
-<h1 align="center">Mansurbek Satarov</h1>
-
-<h3 align="center">Trustworthy AI Researcher · ML Systems Engineer · Full-Stack Developer</h3>
+<img src="assets/banner.svg" alt="Mansurbek Satarov — Trustworthy AI Research · ML Systems · Full-Stack Engineering" width="100%">
 
 <p align="center">
   Ph.D. researcher at the University of Cincinnati studying how model behavior forms during
@@ -164,8 +162,8 @@ More at **[mansurpro.netlify.app](https://mansurpro.netlify.app)**.
 ## GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&hide_border=true&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b&icon_color=3fbe73" alt="MansurPro's GitHub stats" height="165">
-  <img src="https://github-readme-stats-two-opal-57.vercel.app/api/top-langs/?username=MansurPro&layout=compact&hide_border=true&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b" alt="Top languages" height="165">
+  <img src="https://github-readme-stats-two-opal-57.vercel.app/api?username=MansurPro&show_icons=true&count_private=true&disable_animations=true&border_color=444d42&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b&icon_color=3fbe73" alt="MansurPro's GitHub stats" height="165">
+  <img src="https://github-readme-stats-two-opal-57.vercel.app/api/top-langs/?username=MansurPro&layout=compact&disable_animations=true&border_color=444d42&bg_color=10140f&title_color=e8a21c&text_color=a3ac9b" alt="Top languages" height="165">
 </p>
 
 ---
