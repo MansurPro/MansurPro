@@ -102,8 +102,8 @@ W, H = 1200, 575
 LAYERS = [
     ("INTERFACES",       "React · Next.js · Three.js · Tailwind",        "#7dd3fc"),
     ("SERVICES & APIs",  "FastAPI · Django · GraphQL · Postgres",        "#60a5fa"),
-    ("AGENTS & RAG",     "LangGraph · ChromaDB · tool use · retrieval",  "#818cf8"),
-    ("MODELS & TRAINING","PyTorch · RLHF · influence analysis",          "#a78bfa"),
+    ("AGENTS & RAG",     "LangGraph · MCP · tool calling · RAG",  "#818cf8"),
+    ("MODELS & TRAINING","PyTorch · vLLM · DeepSpeed · Slurm",          "#a78bfa"),
     ("SYSTEMS & INFRA",  "Docker · Kubernetes · Linux · CI/CD",          "#c084fc"),
 ]
 SW, SD, SH = 260, 86, 18          # slab width, depth, thickness
@@ -142,7 +142,7 @@ for idx, (name, sub, col) in enumerate(LAYERS):
 
 # name block
 p.append(f'<path d="{tp(BOLD, "MANSURBEK SATAROV", 54, 78, 80, tracking=-0.004)}" fill="{INK}"/>')
-role = "Trustworthy AI Researcher   ·   ML Systems Engineer   ·   Full-Stack Developer"
+role = "AI Researcher   ·   AI/ML Engineer   ·   Full-Stack Engineer & Team Lead"
 p.append(f'<path d="{tp(MED, role, 16, 80, 110, tracking=0.014)}" fill="{DIM}"/>')
 
 # availability pill
@@ -170,7 +170,7 @@ style = """
     @media (prefers-reduced-motion: reduce) { .s0,.s1,.s2,.s3,.s4 { animation: none } }
   </style>"""
 
-hero = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Mansurbek Satarov — Trustworthy AI Researcher, ML Systems Engineer, Full-Stack Developer. The stack he works across: interfaces, services and APIs, agents and RAG, models and training, systems and infrastructure.">
+hero = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Mansurbek Satarov — AI Researcher, AI/ML Engineer, Full-Stack Engineer and Team Lead. The stack he works across: interfaces, services and APIs, agents and RAG, models and training, systems and infrastructure.">
   <title>Mansurbek Satarov — the stack I work across</title>
   <defs>
     <radialGradient id="glow" cx="50%" cy="50%">
@@ -246,4 +246,4 @@ def tagline(text, fname):
     print(f"  {fname}  {w}x{ph}")
 
 
-tagline("studying how model behavior forms during training", "tagline.svg")
+tagline("studying when AI systems can be trusted", "tagline.svg")

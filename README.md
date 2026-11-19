@@ -1,20 +1,21 @@
-<a href="https://mansurpro.netlify.app"><img src="assets/hero.svg" alt="Mansurbek Satarov — Trustworthy AI Researcher, ML Systems Engineer, Full-Stack Developer. The stack I work across: interfaces, services and APIs, agents and RAG, models and training, systems and infrastructure." width="100%"></a>
+<a href="https://mansurpro.netlify.app"><img src="assets/hero.svg" alt="Mansurbek Satarov — AI Researcher, AI/ML Engineer, Full-Stack Engineer and Team Lead. The stack I work across: interfaces, services and APIs, agents and RAG, models and training, systems and infrastructure." width="100%"></a>
 
-<img src="assets/tagline.svg" alt="studying how model behavior forms during training">
+<img src="assets/tagline.svg" alt="studying when AI systems can be trusted">
 
 <p align="left">
   <a href="https://mansurpro.netlify.app"><img src="assets/btn-website.svg" alt="Website"></a>
-  <a href="https://github.com/MansurPro?tab=repositories"><img src="assets/btn-projects.svg" alt="Projects"></a>
+  <a href="https://mansurpro.netlify.app/projects"><img src="assets/btn-projects.svg" alt="Projects"></a>
   <a href="https://mansurpro.netlify.app/research"><img src="assets/btn-research.svg" alt="Research"></a>
   <a href="mailto:sataromk@mail.uc.edu"><img src="assets/btn-contact.svg" alt="Contact"></a>
 </p>
 
 ---
 
-## What I work on
+## About
 
-I split my time between research that asks *why models behave the way they do* and engineering
-that puts those models in front of real users. Both halves feed each other.
+I'm an AI researcher who ships production software. As a fully funded Computer Science Ph.D. student
+at the **University of Cincinnati** (advised by Prof. Justin Zhan), I study when AI systems can be trusted,
+and I build the systems and evaluations that check it.
 
 <table>
 <tr>
@@ -24,67 +25,82 @@ that puts those models in front of real users. Both halves feed each other.
 <tr valign="top">
 <td>
 
-- **Trustworthy ML & alignment** — making model behavior predictable, auditable, and safe to depend on
-- **Learning dynamics & influence analysis** — per-update gradient tracing to attribute behavior to training data
-- **RLHF & preference optimization** — how preference data and policy optimization shape behavior
-- **LLM security** — jailbreaks, data poisoning, and governing third-party agent extensions
-- **Agentic AI & RAG** — tool-using agents, orchestration graphs, grounded retrieval with honest citations
-- **Computer vision & multimodal** — detection and pose pipelines (YOLO, ViT-Pose); text ↔ image ↔ video
-- **Scalable deployment** — GPU serving, containerized inference, reproducible training infra
+- **LLM &amp; agent security** — how models and the agents built on them are attacked and defended
+- **Privacy in ML** — what private and collaborative training actually protect, and for whom
+- **Alignment &amp; training dynamics** — how behavior forms during training and fine-tuning
+- **Safety evaluation** — building the evaluations that decide whether a model is safe to ship
+- **At scale** — experiments on open-weight models and tool-using agents on GPU clusters (Slurm, vLLM, DeepSpeed), reported with preregistered, held-out evaluation
+
+Manuscripts submitted and in preparation at top ML and security venues.
 
 </td>
 <td>
 
-- **Backend & APIs** — FastAPI, Django, Flask, Node; REST and GraphQL over Postgres, MongoDB, Redis
-- **Frontend** — React, Next.js, Vue, TypeScript, Tailwind, Three.js — accessible and fast by default
-- **Cloud & DevOps** — Docker, Kubernetes, GCP/AWS/Azure, GitHub Actions CI/CD, Nginx
-- **Systems & OS** — Linux internals, C/C++/Rust, shell and process tooling, containers from the ground up
-- **System design** — service boundaries, caching layers, data modeling, and the failure modes of each
-- **Data engineering** — ingestion, cleaning, feature pipelines, warehouse-backed analytics
-- **Automation** — CI pipelines, scheduled jobs, and bots that remove manual steps
+- **Agents &amp; RAG** — LangGraph workflows, tool calling, MCP, grounded retrieval
+- **Computer vision &amp; serving** — YOLO and ViT-Pose inference, GPU model serving, prototype to deployment
+- **Backend &amp; real-time** — Django, FastAPI, WebSocket video streaming, Postgres, MongoDB, Redis
+- **Frontend** — React, Next.js, TypeScript, Tailwind
+- **Cloud &amp; DevOps** — Docker on NVIDIA GPU servers; GCP, Azure, AWS; GitHub Actions CI/CD
+- **Systems** — Linux, C/C++, Rust
 
 </td>
 </tr>
 </table>
 
-> Ph.D. Research Assistant at the **University of Cincinnati** · part-time Research Assistant at the **P&G Digital Accelerator**
+| Now | Before |
+|---|---|
+| **Ph.D. Research Assistant**, University of Cincinnati · 2025–present | **Software Engineer → Web Team Lead**, AiKYNETIX · 2023–2025 (promoted after 12 months) |
+| **Research Assistant (part-time)**, P&amp;G Digital Accelerator · 2026–present | **Research Assistant, CV &amp; ML**, North American University · 2023–2025 |
+| **Teaching Assistant**, Python, ML &amp; Applied AI, UC · Spring 2026 | **ACM club president** — hackathons and workshops |
 
-## Research interests
+## Research areas
 
-**Active** — where my current work lives.
+22 areas in 4 groups — how models learn, how to keep them secure and in bounds, what they are made of,
+and what happens once they act as agents.
 
-<p>
-  <img src="https://img.shields.io/badge/TRUSTWORTHY%20ML-818cf8?style=flat-square" alt="Trustworthy ML">
-  <img src="https://img.shields.io/badge/ALIGNMENT-818cf8?style=flat-square" alt="Alignment">
-  <img src="https://img.shields.io/badge/RLHF-818cf8?style=flat-square" alt="RLHF">
-  <img src="https://img.shields.io/badge/LEARNING%20DYNAMICS-818cf8?style=flat-square" alt="Learning dynamics">
-  <img src="https://img.shields.io/badge/INFLUENCE%20ANALYSIS-818cf8?style=flat-square" alt="Influence analysis">
-  <img src="https://img.shields.io/badge/LLM%20SECURITY-818cf8?style=flat-square" alt="LLM security">
-  <img src="https://img.shields.io/badge/AGENTIC%20AI-818cf8?style=flat-square" alt="Agentic AI">
-  <img src="https://img.shields.io/badge/RAG-818cf8?style=flat-square" alt="Retrieval-augmented generation">
-  <img src="https://img.shields.io/badge/COMPUTER%20VISION-818cf8?style=flat-square" alt="Computer vision">
-  <img src="https://img.shields.io/badge/MULTIMODAL-818cf8?style=flat-square" alt="Multimodal learning">
-  <img src="https://img.shields.io/badge/MODEL%20DEPLOYMENT-818cf8?style=flat-square" alt="Scalable model deployment">
-</p>
-
-**In preparation** — adjacent ground I read into and expect to work in next.
+**Training &amp; learning dynamics** — How models learn, and what data, training, and fine-tuning do to their behavior.
 
 <p>
-  <img src="https://img.shields.io/badge/INTERPRETABILITY-334155?style=flat-square" alt="Mechanistic interpretability">
-  <img src="https://img.shields.io/badge/EVALUATION-334155?style=flat-square" alt="Model evaluation and benchmarking">
-  <img src="https://img.shields.io/badge/CALIBRATION-334155?style=flat-square" alt="Uncertainty quantification and calibration">
-  <img src="https://img.shields.io/badge/ROBUSTNESS-334155?style=flat-square" alt="Adversarial robustness">
-  <img src="https://img.shields.io/badge/PEFT-334155?style=flat-square" alt="Parameter-efficient fine-tuning">
-  <img src="https://img.shields.io/badge/DATA--CENTRIC%20AI-334155?style=flat-square" alt="Data-centric AI">
-  <img src="https://img.shields.io/badge/SYNTHETIC%20DATA-334155?style=flat-square" alt="Synthetic data">
-  <img src="https://img.shields.io/badge/PRIVACY--PRESERVING%20ML-334155?style=flat-square" alt="Privacy-preserving ML">
-  <img src="https://img.shields.io/badge/REASONING-334155?style=flat-square" alt="Reasoning and planning">
-  <img src="https://img.shields.io/badge/EFFICIENT%20INFERENCE-334155?style=flat-square" alt="Efficient inference">
-  <img src="https://img.shields.io/badge/HUMAN%20OVERSIGHT-334155?style=flat-square" alt="Human oversight">
-  <img src="https://img.shields.io/badge/ML%20INFRASTRUCTURE-334155?style=flat-square" alt="Reproducible ML infrastructure">
+  <img src="https://img.shields.io/badge/RLHF-a78bfa?style=flat-square" alt="RLHF">
+  <img src="https://img.shields.io/badge/FINE--TUNING-a78bfa?style=flat-square" alt="FINE-TUNING">
+  <img src="https://img.shields.io/badge/LEARNING%20DYNAMICS-a78bfa?style=flat-square" alt="LEARNING DYNAMICS">
+  <img src="https://img.shields.io/badge/TOKENIZATION-a78bfa?style=flat-square" alt="TOKENIZATION">
 </p>
 
-Each of these has a page with context on **[mansurpro.netlify.app/research](https://mansurpro.netlify.app/research)**.
+**Safety, security &amp; governance** — Keeping trained behavior predictable, permitted, and auditable once it is deployed.
+
+<p>
+  <img src="https://img.shields.io/badge/TRUSTWORTHY%20ML-818cf8?style=flat-square" alt="TRUSTWORTHY ML">
+  <img src="https://img.shields.io/badge/ALIGNMENT-818cf8?style=flat-square" alt="ALIGNMENT">
+  <img src="https://img.shields.io/badge/LLM%20SECURITY-818cf8?style=flat-square" alt="LLM SECURITY">
+  <img src="https://img.shields.io/badge/GUARDRAILS-818cf8?style=flat-square" alt="GUARDRAILS">
+  <img src="https://img.shields.io/badge/SAFETY%20EVALUATION-818cf8?style=flat-square" alt="SAFETY EVALUATION">
+  <img src="https://img.shields.io/badge/PRIVACY%20%26%20DATA%20GOVERNANCE-818cf8?style=flat-square" alt="PRIVACY &amp; DATA GOVERNANCE">
+  <img src="https://img.shields.io/badge/FEDERATED%20LEARNING-818cf8?style=flat-square" alt="FEDERATED LEARNING">
+  <img src="https://img.shields.io/badge/ROBUSTNESS-818cf8?style=flat-square" alt="ROBUSTNESS">
+</p>
+
+**Models, modality &amp; efficiency** — What a model is made of, what it can perceive, and what it costs to run.
+
+<p>
+  <img src="https://img.shields.io/badge/QUANTIZATION-60a5fa?style=flat-square" alt="QUANTIZATION">
+  <img src="https://img.shields.io/badge/DIFFUSION-60a5fa?style=flat-square" alt="DIFFUSION">
+  <img src="https://img.shields.io/badge/VISION--LANGUAGE%20MODELS-60a5fa?style=flat-square" alt="VISION-LANGUAGE MODELS">
+  <img src="https://img.shields.io/badge/MULTIMODAL-60a5fa?style=flat-square" alt="MULTIMODAL">
+  <img src="https://img.shields.io/badge/COMPUTER%20VISION-60a5fa?style=flat-square" alt="COMPUTER VISION">
+</p>
+
+**Agentic &amp; retrieval systems** — Models put to work: tools, retrieval, grounding, and serving.
+
+<p>
+  <img src="https://img.shields.io/badge/AGENTIC%20AI-7dd3fc?style=flat-square" alt="AGENTIC AI">
+  <img src="https://img.shields.io/badge/REASONING%20MODELS-7dd3fc?style=flat-square" alt="REASONING MODELS">
+  <img src="https://img.shields.io/badge/RAG-7dd3fc?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/QUESTION%20ANSWERING-7dd3fc?style=flat-square" alt="QUESTION ANSWERING">
+  <img src="https://img.shields.io/badge/MODEL%20DEPLOYMENT-7dd3fc?style=flat-square" alt="MODEL DEPLOYMENT">
+</p>
+
+Each area has context on **[mansurpro.netlify.app/research](https://mansurpro.netlify.app/research)**. Papers will be listed there as they become citable.
 
 ## Selected work
 
@@ -94,9 +110,10 @@ Each of these has a page with context on **[mansurpro.netlify.app/research](http
 
 | Project | What it does |
 |---|---|
-| **[Multi-Agent Deep Research](https://github.com/MansurPro/LangGraph-deep-research)** | LangGraph supervisor/worker workflow that plans research, gathers live evidence, extracts structured findings with Pydantic schemas, and writes sourced reports |
-| **[RAG Assistant](https://github.com/MansurPro/RAG-assistant)** | Modular retrieval-augmented generation pipeline — ingestion, chunking, embeddings, ChromaDB semantic search, conversational interface |
-| **[Prompt2Clip](https://github.com/MansurPro/Prompt2Clip)** | Text-to-video generation on scalable cloud GPU infrastructure using the Mochi model |
+| **[Multi-Agent Deep Research](https://github.com/MansurPro/LangGraph-deep-research)** | LangGraph supervisor/worker workflow: plans the question, gathers live evidence (Tavily), extracts structured findings with Pydantic schemas, scores source quality, and writes sourced reports with no-API fallbacks |
+| **[voxide](https://github.com/MansurPro/voxide)** | Offline voice control for developers in Rust — MiniLM sentence embeddings plus lexical matching map spoken commands to actions; 100% top-1 on a 40-utterance eval set |
+| **[RAG Assistant](https://github.com/MansurPro/RAG-assistant)** | Modular retrieval-augmented generation — ingestion, chunking, embeddings, ChromaDB semantic search, Flask conversational interface |
+| **[DocuParse](https://github.com/MansurPro/DocuParse)** | PDF/EPUB/MOBI → clean structured Markdown, with OCR, AI layout detection, and LaTeX equation handling |
 
 </details>
 
@@ -106,9 +123,9 @@ Each of these has a page with context on **[mansurpro.netlify.app/research](http
 
 | Project | What it does |
 |---|---|
-| **[Retail Intelligence Platform](https://github.com/MansurPro/retail-intelligence-platform)** | End-to-end Azure analytics — customer lifetime value, churn risk, basket associations — served through FastAPI + React with a SQL-backed dashboard cache |
-| **[DocuParse](https://github.com/MansurPro/DocuParse)** | PDF/EPUB/MOBI → clean structured Markdown, with AI layout detection, LaTeX equation handling, and multilingual support |
+| **[Retail Intelligence Platform](https://github.com/MansurPro/retail-intelligence-platform)** | Team project: end-to-end Azure analytics — customer lifetime value, churn risk, basket associations — FastAPI over Azure SQL + React dashboard with a SQL-backed cache |
 | **[College Inquiry Chatbot](https://github.com/MansurPro/gcp-college-inquiry-chatbot)** | Cloud-native conversational system on GCP that answers prospective-student questions |
+| **[Prompt2Clip](https://github.com/MansurPro/Prompt2Clip)** | Cloud GPU pipeline for text-prompt-to-video-clip generation |
 
 </details>
 
@@ -123,7 +140,7 @@ Each of these has a page with context on **[mansurpro.netlify.app/research](http
 
 </details>
 
-More at **[mansurpro.netlify.app](https://mansurpro.netlify.app)**.
+All case studies at **[mansurpro.netlify.app/projects](https://mansurpro.netlify.app/projects)**.
 
 ## Tech I actually use
 
@@ -320,7 +337,7 @@ More at **[mansurpro.netlify.app](https://mansurpro.netlify.app)**.
 ---
 
 <p align="center">
-  <em>Open to research collaborations and industry opportunities.</em><br>
+  <em>Open to Research Scientist / Research Engineer roles and internships, ML &amp; agent engineering roles, and collaborations.</em><br>
   <a href="mailto:sataromk@mail.uc.edu">sataromk@mail.uc.edu</a> ·
   <a href="https://www.linkedin.com/in/mansurbek/">LinkedIn</a> ·
   <a href="https://mansurpro.netlify.app">mansurpro.netlify.app</a>
